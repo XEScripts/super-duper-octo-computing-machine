@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Cosmic Explorer",
+        "developer": "Studio Alpha",
+        "description": "Исследуй бесконечную галактику...",
+        "image_url": "http://my-site.com/images/cosmic.jpg",
+        "download_url": "http://my-site.com/downloads/cosmic_explorer_v1.zip",
+        "executable_name": "explorer.exe"
+    },
+    {
+        "id": 2,
+        "title": "Pixel Arena",
+        "developer": "Retro Dev",
+        "description": "Классический платформер 8-бит.",
+        "image_url": "http://my-site.com/images/pixel.jpg",
+        "download_url": "http://my-site.com/downloads/pixel_arena_v2.zip",
+        "executable_name": "arena.exe"
+    }
+]
