@@ -1,12 +1,12 @@
 [
     {
         "id": 1,
-        "title": "Cosmic Explorer",
-        "developer": "Studio Alpha",
-        "description": "Исследуй бесконечную галактику...",
-        "image_url": "http://my-site.com/images/cosmic.jpg",
-        "download_url": "http://my-site.com/downloads/cosmic_explorer_v1.zip",
-        "executable_name": "explorer.exe"
+        "title": "Six Nights At Stickmans",
+        "developer": "Unkown",
+        "description": "Пародия на FNAF Первой части",
+        "image_url": "https://i.imgur.com/AAiAIpT.png",
+        "download_url": "https://www.dropbox.com/scl/fi/tuzmofd66lbyzprck9jyh/2.0.1.exe?rlkey=2y8prdevkkennuz09ah1pmlxq&st=92r6yppe&dl=1",
+        "executable_name": "2.0.1.exe"
     },
     {
         "id": 2,
