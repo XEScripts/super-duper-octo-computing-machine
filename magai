@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "Six Gsdf At Stickmans",
+        "title": "Six Nights At Stickmans",
         "developer": "Unkown",
         "description": "Пародия на FNAF Первой части",
         "image_url": "https://i.imgur.com/AAiAIpT.png",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "title": "Obs Studio",
-        "developer": "Lain Bail231",
+        "developer": "Lain Bailey",
         "description": "Программа для записи и для стримов.",
         "image_url": "https://i.imgur.com/t9qlfeF.jpeg",
         "download_url": "https://www.dropbox.com/scl/fi/f8rvi49tdapw9cvpoa7kc/obs_studio.zip?rlkey=408lgtqrsj1pcgjwneon7xtuq&st=bnfcwzro&dl=1",
