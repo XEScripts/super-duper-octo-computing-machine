@@ -10,11 +10,11 @@
     },
     {
         "id": 2,
-        "title": "Pixel Arena",
-        "developer": "Retro Dev",
-        "description": "Классический платформер 8-бит.",
-        "image_url": "http://my-site.com/images/pixel.jpg",
-        "download_url": "http://my-site.com/downloads/pixel_arena_v2.zip",
-        "executable_name": "arena.exe"
+        "title": "Obs Studio",
+        "developer": "Lain Bailey",
+        "description": "Программа для записи и для стримов.",
+        "image_url": "https://i.imgur.com/t9qlfeF.jpeg",
+        "download_url": "https://www.dropbox.com/scl/fi/f8rvi49tdapw9cvpoa7kc/obs_studio.zip?rlkey=408lgtqrsj1pcgjwneon7xtuq&st=bnfcwzro&dl=1",
+        "executable_name": "bin\64bit\obs64.exe"
     }
 ]
