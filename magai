@@ -15,6 +15,6 @@
         "description": "Программа для записи и для стримов.",
         "image_url": "https://i.imgur.com/t9qlfeF.jpeg",
         "download_url": "https://www.dropbox.com/scl/fi/f8rvi49tdapw9cvpoa7kc/obs_studio.zip?rlkey=408lgtqrsj1pcgjwneon7xtuq&st=bnfcwzro&dl=1",
-        "executable_name": "bin\64bit\obs64.exe"
+        "executable_name": "bin\\64bit\\obs64.exe"
     }
 ]
