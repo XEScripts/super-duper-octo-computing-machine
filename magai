@@ -6,6 +6,7 @@
         "description": "Пародия на FNAF Первой части",
         "image_url": "https://i.imgur.com/AAiAIpT.png",
         "download_url": "https://www.dropbox.com/scl/fi/evjx6auut0yza12ec9coy/SixNightsAtStickman.zip?rlkey=rc0ory1s7dtykawusolhyeupy&st=2150vxod&dl=1",
+        "install_folder": "SixNightsAtStickman",
         "executable_name": "2.0.1.exe"
     },
     {
@@ -15,6 +16,7 @@
         "description": "Программа для записи и для стримов.",
         "image_url": "https://i.imgur.com/t9qlfeF.jpeg",
         "download_url": "https://www.dropbox.com/scl/fi/f8rvi49tdapw9cvpoa7kc/obs_studio.zip?rlkey=408lgtqrsj1pcgjwneon7xtuq&st=bnfcwzro&dl=1",
+        "install_folder": "obs_studio",
         "executable_name": "bin\\64bit\\obs64.exe"
     }
 ]
