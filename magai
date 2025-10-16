@@ -2,8 +2,8 @@
     {
         "id": 1,
         "title": "Six Nights At Stickmans",
-        "developer": "kown",
-        "description": "Пародия на FfgdsПервой части",
+        "developer": "Unkown",
+        "description": "Пародия на Первой части",
         "image_url": "https://i.imgur.com/AAiAIpT.png",
         "download_url": "https://www.dropbox.com/scl/fi/evjx6auut0yza12ec9coy/SixNightsAtStickman.zip?rlkey=rc0ory1s7dtykawusolhyeupy&st=2150vxod&dl=1",
         "install_folder": "SixNightsAtStickman",
@@ -19,14 +19,4 @@
         "install_folder": "obs_studio",
         "executable_name": "bin\\64bit\\obs64.exe"
     },
-    {
-        "id": 3,
-        "title": "Obs Studio",
-        "developer": "Lain Bailey",
-        "description": "Программа для записи и для стримов.",
-        "image_url": "https://i.imgur.com/t9qlfeF.jpeg",
-        "download_url": "https://www.dropbox.com/scl/fi/f8rvi49tdapw9cvpoa7kc/obs_studio.zip?rlkey=408lgtqrsj1pcgjwneon7xtuq&st=bnfcwzro&dl=1",
-        "install_folder": "obs_studio",
-        "executable_name": "bin\\64bit\\obs64.exe"
-    }
 ]
