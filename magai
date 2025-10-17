@@ -89,4 +89,14 @@
         "install_folder": "clientmodcss",
         "executable_name": "CMLauncher.exe"
     },
+    {
+        "id": 10,
+        "title": "Academia Simulator",
+        "developer": "Squeaky Wheel Studio",
+        "description": "Постройте старшую школу с научными лабораториями, баскетбольными площадками, художественными мастерскими, или сделайте всё по минимуму и живите за счет государственных субсидий! Предоставите ли вы услуги психологов для сложных учеников или просто отправите их в класс наказания, чтобы они продолжили тратить жизнь впустую? Наймете ли вы лучших учителей или пожадничаете, и построите огромные классы с одним учителем на 100 учеников? Возведёте ли вы достаточное количество туалетов или будете смеяться, когда ученики будут вынуждены бегать в кусты? Выбор за вами!",
+        "image_url": "https://gaming-cdn.com/images/products/6135/orig/academia-school-simulator-pc-mac-game-steam-cover.jpg?v=1709130656",
+        "download_url": "https://www.dropbox.com/scl/fi/q60iqy852cry18omvdq38/academia.zip?rlkey=6cs4bbrleedi4pso63bmduimg&st=bo4k06eu&dl=1",
+        "install_folder": "academiasim",
+        "executable_name": "Academia64.exe"
+    },
 ]
