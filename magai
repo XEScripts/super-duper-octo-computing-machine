@@ -129,4 +129,24 @@
         "install_folder": "HOI4",
         "executable_name": "hoi4.exe"
     },
+    {
+        "id": 14,
+        "title": "Postal 2",
+        "developer": "Running With Scissors",
+        "description": "Поживите недельку жизнью Чувака, самого обычного человека, занимающегося самыми обычными делами. Казалось бы, что может пойти не так во время покупки молока, запоздалого возвращения книги в библиотеку и получения автографа Гэри Коулмана? Взрывайте, кромсайте и ссыте, ища приключений на свою голову в сатирическом мире Postal 2 — игре, полной черного юмора. Познакомьтесь с нехорошим талисманом Кротчи, посетите дядюшку Дэйва на его осажденной базе религиозных фанатиков, сразитесь с талибами, живущими в канализации, и не дайте деревенщинам-гомосекам, продажным копам и бешеным слонам порвать главному герою очко. Исследуйте открытые пространства, населенные людьми с удивительно непредсказуемым искусственным интеллектом. Заручитесь поддержкой Чампа, полуверного питбуля Чувака. Используйте арсенал разнообразного оружия, варьирующийся от обычной лопаты до забавного гранатомета. Натравляйте собак на врагов! Используйте кошек в качестве глушителей! Обливайте всё и всех мочой и бензином! Ваши темные мечты сбываются!",
+        "image_url": "https://cdn.dlcompare.com/game_tetiere/upload/gameimage/file/7851.jpeg.webp",
+        "download_url": "https://www.dropbox.com/scl/fi/0e82ttlgkenmtj8durwkx/Hoi4.zip?rlkey=ytfhfn2ulwcn8vaeolbfd3s1h&st=cbqustlz&dl=1",
+        "install_folder": "HOI4",
+        "executable_name": "hoi4.exe"
+    },
+    {
+        "id": 15,
+        "title": "GTA San Andreas",
+        "developer": "Rockstar Games",
+        "description": "Чистая версия GTA:SA для ваших нужд",
+        "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12120/capsule_616x353.jpg?t=1634144450",
+        "download_url": "https://www.dropbox.com/scl/fi/jh0xa011ubj88n5r288vt/gtasa.zip?rlkey=e90dm5puhm8uc1zu7wjarccli&st=z4583p0v&dl=1",
+        "install_folder": "gtasa",
+        "executable_name": "gta_sa.exe"
+    },
 ]
