@@ -119,4 +119,14 @@
         "install_folder": "PrisonArchitect",
         "executable_name": "PrisonArchitect64.exe"
     },
+    {
+        "id": 13,
+        "title": "Hearts Of Iron IV",
+        "developer": "Paradox Interactive.",
+        "description": "Возьмите под свой контроль величайшие машины в истории в Hearts of Iron IV  — масштабной военной игре, которая проверит ваши стратегические навыки и политическую гибкость. Сражайтесь во время Второй мировой войны, возглавляя государства той эпохи, наращивая промышленную мощь и заключая дипломатические союзы, которые позволят вам эффективно противостоять идеологическим противникам.",
+        "image_url": "https://gaming-cdn.com/images/products/2816/616x353/hearts-of-iron-iv-cadet-edition-deutsche-cut-pc-mac-game-steam-niemcy-cover.jpg?v=1701073525",
+        "download_url": "https://www.dropbox.com/scl/fi/0e82ttlgkenmtj8durwkx/Hoi4.zip?rlkey=ytfhfn2ulwcn8vaeolbfd3s1h&st=239wxpxw&dl=1",
+        "install_folder": "HOI4",
+        "executable_name": "hoi4.exe"
+    },
 ]
