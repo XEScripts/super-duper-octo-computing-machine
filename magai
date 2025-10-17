@@ -23,7 +23,7 @@
         "id": 3,
         "title": "Counter Strike 1.6",
         "developer": "Valve",
-        "description": "Многопользовательский шутер.",
+        "description": "Многопользовательский шутер, русская версия с онлайном и доступом к пабликам.",
         "image_url": "https://i.imgur.com/HQZ2Hpm.jpeg",
         "download_url": "https://www.dropbox.com/scl/fi/f4345u2f4a8b4q9njdx6b/cs1.6.zip?rlkey=8f9l8odftk1y5fk1v7a8pizwq&st=8s4jx912&dl=1",
         "install_folder": "CS1.6",
