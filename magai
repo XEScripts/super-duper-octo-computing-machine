@@ -149,4 +149,24 @@
         "install_folder": "gtasa",
         "executable_name": "gta_sa.exe"
     },
+    {
+        "id": 16,
+        "title": "Plants Vs Zombies GOTY: Edition",
+        "developer": "PopCap Games, Inc.",
+        "description": "Принципиально новая экшен-стратегия от компании PopCap, подарившей нам Bejeweled и Peggle! Зомби напали на ваш дом, и ваш единственный способ выжить — посадить арсенал из растений! Будучи вооруженным иноземными растениями, истребляющими зомби, вроде горохострела и вишневой бомбы, вам потребуется очень быстро мыслить и сажать растения еще быстрее, чтобы любой ценой не дать зомби дойти до вашего дома. Заходящее солнце, ползучий туман и бассейн вкупе с пятью игровыми режимами не станут помехой для бесконечного веселья!",
+        "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3590/header.jpg?t=1738970324",
+        "download_url": "https://www.dropbox.com/scl/fi/u2sq6wi7foe17at7wdxi8/pvz.zip?rlkey=f00a89sqit6bq4rcuwd0fehht&st=f8t7d49b&dl=1",
+        "install_folder": "pvz",
+        "executable_name": "PlantsVsZombies.exe"
+    },
+    {
+        "id": 17,
+        "title": "Worldbox",
+        "developer": "Maxim Karpenko",
+        "description": "worldbox — лучшая игра-симулятор бога и песочница! Создайте свой собственный мир или уничтожьте его, используя различные силы: Симулятор Бога. В вашем арсенале множество способностей, которые можно использовать без маны и ресурсов. Живой мир . У существ есть свои особенности и потребности. Животные ищут еду. Жадные короли пытаются захватить больше земли.",
+        "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1206560/header.jpg?t=1727687171",
+        "download_url": "https://www.dropbox.com/scl/fi/vt5206m0fqkx5jlioeojj/worldbox.zip?rlkey=85x6zdpnb86useuxdizk2qgxg&st=fod5zuyr&dl=0",
+        "install_folder": "worldbox",
+        "executable_name": "worldbox.exe"
+    }
 ]
