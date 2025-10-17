@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Six Nights At Stickmans",
         "developer": "Unkown",
-        "description": "Пародия на Первой части",
+        "description": "Пародия на FNAF Первой части",
         "image_url": "https://i.imgur.com/AAiAIpT.png",
         "download_url": "https://www.dropbox.com/scl/fi/evjx6auut0yza12ec9coy/SixNightsAtStickman.zip?rlkey=rc0ory1s7dtykawusolhyeupy&st=2150vxod&dl=1",
         "install_folder": "SixNightsAtStickman",
@@ -18,5 +18,15 @@
         "download_url": "https://www.dropbox.com/scl/fi/f8rvi49tdapw9cvpoa7kc/obs_studio.zip?rlkey=408lgtqrsj1pcgjwneon7xtuq&st=bnfcwzro&dl=1",
         "install_folder": "obs_studio",
         "executable_name": "bin\\64bit\\obs64.exe"
+    },
+    {
+        "id": 3,
+        "title": "Counter Strike 1.6",
+        "developer": "Valve",
+        "description": "Многопользовательский шутер.",
+        "image_url": "https://i.imgur.com/HQZ2Hpm.jpeg",
+        "download_url": "https://www.dropbox.com/scl/fi/f4345u2f4a8b4q9njdx6b/cs1.6.zip?rlkey=8f9l8odftk1y5fk1v7a8pizwq&st=8s4jx912&dl=1",
+        "install_folder": "CS1.6",
+        "executable_name": "start.bat"
     }
 ]
