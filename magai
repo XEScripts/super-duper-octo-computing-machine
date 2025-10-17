@@ -28,5 +28,55 @@
         "download_url": "https://www.dropbox.com/scl/fi/f4345u2f4a8b4q9njdx6b/cs1.6.zip?rlkey=8f9l8odftk1y5fk1v7a8pizwq&st=8s4jx912&dl=1",
         "install_folder": "CS1.6",
         "executable_name": "start.bat"
-    }
+    },
+    {
+        "id": 4,
+        "title": "Five Nights At Freddy's 1",
+        "developer": "ScottGames",
+        "description": "Ты ночной охранник в жуткой пиццерии, где аниматроники оживают ночью. Следи за камерами, закрывай двери и выживай до утра, пока электричество не закончится!",
+        "image_url": "https://i.imgur.com/UlRY5Ds.png",
+        "download_url": "https://www.dropbox.com/scl/fi/1418k86of1cilq2hclgkg/fnaf1.zip?rlkey=8nqve2w9xwk9mn6hsbf6menos&st=u9lb74sh&dl=1",
+        "install_folder": "fnaf1",
+        "executable_name": "FiveNightsatFreddys.exe"
+    },
+    {
+        "id": 5,
+        "title": "Five Nights At Freddy's 2",
+        "developer": "ScottGames",
+        "description": "Ты ночной охранник в жуткой пиццерии, где аниматроники оживают ночью. Следи за камерами, закрывай двери и выживай до утра",
+        "image_url": "https://i.imgur.com/GS8lNXs.jpeg",
+        "download_url": "https://www.dropbox.com/scl/fi/sl6wjstkdvkklil0pq4na/fnaf2.zip?rlkey=i1ibuqc4zpd2h7nefo6i2jcnl&st=gwd5gyfj&dl=1",
+        "install_folder": "fnaf2",
+        "executable_name": "FiveNightsatFreddys2.exe"
+    },
+    {
+        "id": 6,
+        "title": "Five Nights At Freddy's 3",
+        "developer": "ScottGames",
+        "description": "Ты ночной охранник в жуткой пиццерии, где аниматроники оживают ночью. Следи за камерами, закрывай двери и выживай до утра",
+        "image_url": "https://i.imgur.com/2UatC4p.jpeg",
+        "download_url": "https://www.dropbox.com/scl/fi/g36omtj1fhiwf6o0jl0ik/fnaf3.zip?rlkey=3f4lmj5xbdrgsjqlsvvhv4rbp&st=r9wpqo9u&dl=1",
+        "install_folder": "fnaf3",
+        "executable_name": "FiveNightsatFreddys3.exe"
+    },
+    {
+        "id": 7,
+        "title": "Five Nights At Freddy's 4",
+        "developer": "ScottGames",
+        "description": "Ты ночной охранник в жуткой пиццерии, где аниматроники оживают ночью. Следи за камерами, закрывай двери и выживай до утра",
+        "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/388090/header.jpg?t=1579635988",
+        "download_url": "https://www.dropbox.com/scl/fi/9vjz7o37s3quxbplefclw/fnaf4.zip?rlkey=cx50ywok7rsh24f3aiqumono3&st=h3fqw2ll&dl=1",
+        "install_folder": "fnaf4",
+        "executable_name": "FiveNightsatFreddys4.exe"
+    },
+    {
+        "id": 8,
+        "title": "Sister Location",
+        "developer": "ScottGames",
+        "description": "Ты ночной охранник в жуткой пиццерии, где аниматроники оживают ночью. Следи за камерами, закрывай двери и выживай до утра",
+        "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/506610/capsule_616x353.jpg?t=1579635985",
+        "download_url": "https://www.dropbox.com/scl/fi/9vjz7o37s3quxbplefclw/fnaf4.zip?rlkey=cx50ywok7rsh24f3aiqumono3&st=h3fqw2ll&dl=1",
+        "install_folder": "fnaf5",
+        "executable_name": "SisterLocation.exe"
+    },
 ]
