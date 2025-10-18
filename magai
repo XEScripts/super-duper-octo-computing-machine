@@ -189,12 +189,12 @@
     {
         "id": 101,
         "type": "Soundtrack",
-        "title": "Half Life Official Soundtrack",
-        "developer": "Valve",
-        "description": "Официальный саундтрек к игре Half Life. Атмосферная, которая создает комфортность",
-        "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323130/capsule_616x353.jpg?t=1675287557",
+        "title": "Five Nights at Freddy's 1 OST",
+        "developer": "Scott Cawthon",
+        "description": "Официальный саундтрек к игре Five Nights at Freddy's. Атмосферная и жуткая музыка, которая создает напряжение.",
+        "image_url": "https://i.imgur.com/UlRY5Ds.png",
         "download_url": "https://www.dropbox.com/scl/fi/fnaf1ost/fnaf1_ost.zip?rlkey=xxxxx&dl=1",
-        "install_folder": "hl_ost",
+        "install_folder": "fnaf1_ost",
         "executable_name": ""
     }
 ]
